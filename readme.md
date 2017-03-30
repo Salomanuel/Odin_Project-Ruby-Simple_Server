@@ -1,6 +1,7 @@
+it has been removed as well!
 http://www.theodinproject.com/ruby-programming/ruby-on-the-web
 
-Project 2: A Real Web Server and Browser (from the command line)
+# Project 2: A Real Web Server and Browser (from the command line)
 
 http://www.tutorialspoint.com/ruby/ruby_socket_programming.htm
 
